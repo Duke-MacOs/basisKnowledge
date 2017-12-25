@@ -3,6 +3,7 @@ var teacher = require("./teacher");
 
 teacher.add('Scott');
 
+
 function add(teacherName, students) {
 	teacher.add(teacherName);
 
